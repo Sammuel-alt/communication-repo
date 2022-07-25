@@ -1,5 +1,5 @@
-#Introduction
-#Signals and line systems
-#Amplitude Modulation
-#Angle Modulation
-#Probability and Randon Access
+#INTRODUCTION:
+#SIGNALS AND LINEAR SYSTEMS:
+#AMPLITUDE MODULATION:
+#ANGLE MODULATION:
+#PROBABILITY AND RANDOM ACCESS:
